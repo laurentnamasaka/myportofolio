@@ -2,6 +2,7 @@ import React from 'react'
 import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/me.jpg'
+import HeaderSocials from './HeaderSocials'
 
 const header = () => {
   return (
@@ -11,10 +12,11 @@ const header = () => {
           <h1>Laurent Namasaka</h1>
           <h5 className="text-light">Frontend Developer</h5>
           <CTA />
+          <HeaderSocials />
 
           <headerSocials />
 
- {/*Code fot the Image*/}
+ {/*Code for the Image*/}
           <div className="me">
             <img src={ME} alt="me" />
           

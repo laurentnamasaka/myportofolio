@@ -45,16 +45,16 @@ header{
     position: center;
     margin-top: 4rem;
     margin-left: 30rem;
-    border-radius: 10rem 10rem 0 0;
+    border-radius: 12rem 12rem 0 0;
     /*transform: translate(-50%);*/
     overflow: hidden;
     justify-content: center;
 }
 
 /*Styling the Scroll Down*/
-.scroll-down {
+.scroll__down {
     position: absolute;
-    right: 2.3rem;
+    right: -2.3rem;
     bottom: 5rem;
     transform: rotate(90deg);
     font-weight: 300;

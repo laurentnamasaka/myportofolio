@@ -14,7 +14,7 @@ const Nav = () => {
       <a href='About'><AiOutlineUser/></a>
       <a href='Experience'><GiWhiteBook/></a>
       <a href='Services'><RiServiceLine/></a>
-      <a href='Contacts'><BiMessageRounded/></a>
+      <a href='Contact'><BiMessageRounded/></a>
 
     </nav>
   )

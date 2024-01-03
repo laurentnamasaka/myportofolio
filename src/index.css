@@ -68,6 +68,7 @@ section > h2, section > h5 {
     text-align: center;
     color: var(--color-primary);
     margin-bottom: 3rem;
+    padding-inline-start: 0cap;
 }
 
 .text-light {

@@ -70,6 +70,11 @@ section > h2, section > h5 {
     margin-bottom: 3rem;
 }
 
+.btn-primary {
+    background: var(--color-primary);
+    color: var(--color-bg);
+}
+
 .text-light {
     color: var(--color-light);
 }

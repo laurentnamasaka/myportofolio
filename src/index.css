@@ -73,6 +73,14 @@ section > h2, section > h5 {
 .text-light {
     color: var(--color-light);
 }
+.header__socials {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 a {
     color: var(--color-primary);

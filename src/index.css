@@ -97,12 +97,6 @@ a:hover {
     background: var(--color-primary);
     color: var(--color-bg);
 }
-.btn:hover {
-    background: var(--color-white);
-    color: var(--color-bg);
-    border-color: transparent;
-}
-
 .btn-primary {
     background: var(--color-primary);
     color: var(--color-bg);
